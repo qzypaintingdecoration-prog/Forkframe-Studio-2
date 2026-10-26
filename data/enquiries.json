@@ -1,0 +1,64 @@
+[
+  {
+    "id": "ff-enq-5114",
+    "venueName": "The Brass Pig Smokehouse",
+    "venueType": "Takeaway / Fast Casual",
+    "selectedServices": [
+      "Bespoke Website Development"
+    ],
+    "contactName": "Liam Vance",
+    "contactEmail": "liam@brasspig.co.uk",
+    "contactPhone": "+44 7700 900555",
+    "currentUrl": "",
+    "timeline": "Immediate (< 2 Weeks)",
+    "budgetRange": "£2,000 – £4,000",
+    "notes": "Looking to replace Just Eat with direct ordering.",
+    "submittedAt": "2026-10-26T02:10:59.599Z",
+    "status": "new",
+    "adminNotes": "",
+    "deliveryStatus": "delivered",
+    "deliveryTimestamp": "2026-10-26T02:10:59.599Z"
+  },
+  {
+    "id": "ff-enq-8921",
+    "venueName": "The Smoked Oak Smokehouse",
+    "venueType": "Independent Restaurant",
+    "selectedServices": [
+      "Bespoke Website Development",
+      "Direct Online Ordering (0% Commission)"
+    ],
+    "contactName": "Callum Henderson",
+    "contactEmail": "callum@smokedoakbristol.co.uk",
+    "contactPhone": "+44 7700 900142",
+    "currentUrl": "https://smokedoakbristol.co.uk",
+    "timeline": "Within 2–4 Weeks",
+    "budgetRange": "£2,000 – £4,000",
+    "notes": "Currently paying 30% to Deliveroo on weekend orders. Want our own branded web ordering with direct thermal kitchen tickets.",
+    "submittedAt": "2026-10-24T02:10:51.691Z",
+    "status": "quoted",
+    "adminNotes": "Spoke with Callum. Sent quote for bespoke Vite web build + Stripe direct checkout. Follow up Friday.",
+    "deliveryStatus": "delivered",
+    "deliveryTimestamp": "2026-10-24T02:10:51.691Z"
+  },
+  {
+    "id": "ff-enq-4178",
+    "venueName": "Osteria Della Luna",
+    "venueType": "Gastropub / Bar",
+    "selectedServices": [
+      "Digital Menus & QR Systems",
+      "Print-Ready Menus & Collateral"
+    ],
+    "contactName": "Elena Rossi",
+    "contactEmail": "elena@osteriadellaluna.co.uk",
+    "contactPhone": "+44 7700 900891",
+    "currentUrl": "",
+    "timeline": "Immediate (< 2 Weeks)",
+    "budgetRange": "£1,000 – £2,000",
+    "notes": "Need water-resistant synthetic printed menus for 60 covers + dynamic QR table menus with UK allergen tags.",
+    "submittedAt": "2026-10-21T02:10:51.691Z",
+    "status": "completed",
+    "adminNotes": "Print proofs signed off and delivered. QR menus active on tables.",
+    "deliveryStatus": "delivered",
+    "deliveryTimestamp": "2026-10-21T02:10:51.691Z"
+  }
+]

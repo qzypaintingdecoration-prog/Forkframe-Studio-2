@@ -1,0 +1,6 @@
+{
+  "name": "Forkframe Studio",
+  "description": "Cinematic real-time 3D digital studio and interactive business platform for independent UK restaurants, takeaways, cafés and hospitality operators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
